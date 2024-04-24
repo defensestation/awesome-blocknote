@@ -37,6 +37,7 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 
 * [blocknote-comments](https://github.com/defensestation/blocknote-comments) — Comments feature for BlockNote
 * [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
+* [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
 
 <!-- END CONTENT -->
 
