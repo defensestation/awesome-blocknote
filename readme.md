@@ -18,26 +18,28 @@ A curated list of awesome BlockNote tools, libraries and resources.
 
 <!-- description -->
 
-The open source Block-Based React rich text editor. Easily add a modern text editing experience to your app. 
+The open source Block-Based React rich text editor. Easily add a modern text editing experience to your app.
 [BlockNote](https://github.com/TypeCellOS/BlockNote) original project
+
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-* [Tools](#tools)
-  * [Plugins](#plugins)
+- [Tools](#tools)
+  - [Plugins](#plugins)
 
 <!-- CONTENT -->
 
-## Tools 
+## Tools
 
 ### Plugins
 
-* [blocknote-comments](https://github.com/defensestation/blocknote-comments) — Comments feature for BlockNote
-* [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
-* [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
+- [blocknote-comments](https://github.com/defensestation/blocknote-comments) — Comments feature for BlockNote
+- [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
+- [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
+- [blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - Drawing canvas for BlockNote.
 
 <!-- END CONTENT -->
 
