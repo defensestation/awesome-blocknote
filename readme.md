@@ -29,6 +29,8 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 
 - [Tools](#tools)
   - [Plugins](#plugins)
+- [Projects Using BlockNote](#projects-using-blocknote)
+  - [Open source projects](#open-source-projects)
 
 <!-- CONTENT -->
 
@@ -40,6 +42,16 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 - [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
 - [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
 - [blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - Drawing canvas for BlockNote.
+
+## Projects Using BlockNote
+
+👉 [Add your project!](https://github.com/defensestation/awesome-blocknote/edit/main/readme.md)
+  
+
+### Open source projects
+
+- [Docs](https://github.com/suitenumerique/docs) - Where your notes can become knowledge through live collaboration.
+- [Tenzu](https://tenzu.net) — Lightweight project management tool for agile teams.
 
 <!-- END CONTENT -->
 
