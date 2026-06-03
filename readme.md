@@ -42,6 +42,7 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 - [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
 - [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
 - [blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - Drawing canvas for BlockNote.
+- [Velt for BlockNote](https://sample-apps-blocknote-react-crdt-de.vercel.app) - Collaboration layer adding comments, presence, and Yjs-based real-time editing to BlockNote.
 
 ## Projects Using BlockNote
 
