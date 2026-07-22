@@ -38,11 +38,13 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 
 ### Plugins
 
-- [blocknote-comments](https://github.com/defensestation/blocknote-comments) — Comments feature for BlockNote
+- [blocknote-math](https://github.com/defensestation/blocknote-math) - A BlockNote React extension for writing LaTeX with KaTeX.
+- [y-comments](https://github.com/defensestation/y-comments) — Comments that never write to the document.
 - [blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) — Mermaid feature for BlockNote
 - [blocknote-code](https://github.com/defensestation/blocknote-code) - Code feature for BlockNote
 - [blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - Drawing canvas for BlockNote.
 - [Velt for BlockNote](https://sample-apps-blocknote-react-crdt-de.vercel.app) - Collaboration layer adding comments, presence, and Yjs-based real-time editing to BlockNote.
+- [blocknote-subscript-superscript](https://github.com/defensestation/blocknote-subscript-superscript) - BlockNote subscript and superscript plugin
 
 ## Projects Using BlockNote
 
