@@ -45,6 +45,7 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 - [blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - Drawing canvas for BlockNote.
 - [Velt for BlockNote](https://sample-apps-blocknote-react-crdt-de.vercel.app) - Collaboration layer adding comments, presence, and Yjs-based real-time editing to BlockNote.
 - [blocknote-subscript-superscript](https://github.com/defensestation/blocknote-subscript-superscript) - BlockNote subscript and superscript plugin
+- [op-blocknote-extensions](https://github.com/opf/op-blocknote-extensions) - A collection of extensions for integrating OpenProject with applications using BlockNote, including e.g. rich work package links and work package creation.
 
 ## Projects Using BlockNote
 
@@ -55,6 +56,7 @@ The open source Block-Based React rich text editor. Easily add a modern text edi
 
 - [Docs](https://github.com/suitenumerique/docs) - Where your notes can become knowledge through live collaboration.
 - [Tenzu](https://tenzu.net) — Lightweight project management tool for agile teams.
+- [OpenProject](https://www.openproject.org/) - Powerful classic, agile or hybrid project management in a secure environment.
 
 <!-- END CONTENT -->
 
